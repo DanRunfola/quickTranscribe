@@ -1,0 +1,8 @@
+/bin/
+/lib/
+/venv/
+/whisper
+bin/
+lib/
+venv/
+whisper
